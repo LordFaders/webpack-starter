@@ -8,7 +8,7 @@ Recordar que para reconstruir los módulos de Node
 npm install
 ````
 
-Ypara construir el build, recordar:
+Y para construir el build, recordar:
 ````
 npm run build
 ````
